@@ -21,14 +21,6 @@ jakt file.jakt
 4. Executable performance
 5. Fun!
 
-## Memory safety
-
-The following strategies are employed to achieve memory safety:
-- Automatic reference counting
-- Strong typing
-- Bounds checking
-- No raw pointers in safe mode
-
 In **Jakt**, there are three pointer types:
 
 - [x] **T** (Strong pointer to reference-counted class `T`.)
